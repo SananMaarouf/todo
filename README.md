@@ -17,7 +17,7 @@ I haven't surpassed any free tier limits yet, so no.
 
 ## Roadmap
 
-- Get it up and running
+- Get it up and running ✅
 
 - Add authentication
 
